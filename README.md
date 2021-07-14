@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I´m Joaquin Claverie</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I have knowledges and skills in JavaScript and his Frameworks like **React.js** and **Node.js** and I´m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://joaquinclaverie-portfolio.vercel.app/](https://joaquinclaverie-portfolio.vercel.app/)
 
