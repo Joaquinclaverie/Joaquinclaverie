@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I´m Joaquin Claverie</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I´m Joaquin Claverie, I´m from Buenos Aires, Argentina</h1>
+<h3 align="center">Full-Stack JavaScript Developer</h3>
 
-- 🌱 I have knowledges and skills in JavaScript and his Frameworks like **React.js** and **Node.js** and I´m currently learning **React Native**
+- 🌱 I have knowledges and skills in JavaScript and his Frameworks like **React.js, Next.js** and **Node.js, Express.js, Nest.js**. Also I have knowledge in **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://joaquinclaverie-portfolio.vercel.app/](https://joaquinclaverie-portfolio.vercel.app/)
 
-- 💬 Ask me about **Node.js, React.js and whatever you want!**
+- 💬 Ask me about **JavaScript and his frameworks or whatever you want!**
 
 - 📫 How to reach me **jclaverieb@gmail.com**
 
