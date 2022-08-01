@@ -3,8 +3,6 @@
 
 - 🌱 I have knowledges and skills in JavaScript and his Frameworks like **React.js, Next.js** and **Node.js, Express.js, Nest.js**. Also I have knowledge in **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://joaquinclaverie-portfolio.vercel.app/](https://joaquinclaverie-portfolio.vercel.app/)
-
 - 💬 Ask me about **JavaScript and his frameworks or whatever you want!**
 
 - 📫 How to reach me **jclaverieb@gmail.com**
